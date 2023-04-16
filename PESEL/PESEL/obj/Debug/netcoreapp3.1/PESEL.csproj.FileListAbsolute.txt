@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.exe
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.deps.json
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.runtimeconfig.json
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.runtimeconfig.dev.json
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.dll
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\bin\Debug\netcoreapp3.1\PESEL.pdb
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.Form1.resources
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.AssemblyInfo.cs
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.dll
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.pdb
+C:\Users\user\Desktop\Metody szyfrowania\PESEL\PESEL\obj\Debug\netcoreapp3.1\PESEL.genruntimeconfig.cache
