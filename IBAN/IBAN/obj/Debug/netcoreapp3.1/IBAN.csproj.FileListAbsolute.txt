@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.exe
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.deps.json
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.runtimeconfig.json
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.runtimeconfig.dev.json
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.dll
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\bin\Debug\netcoreapp3.1\IBAN.pdb
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.Form1.resources
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.AssemblyInfo.cs
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.dll
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.pdb
+C:\Users\user\Desktop\Metody szyfrowania\IBAN\IBAN\obj\Debug\netcoreapp3.1\IBAN.genruntimeconfig.cache
