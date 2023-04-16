@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.exe
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.deps.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.runtimeconfig.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.runtimeconfig.dev.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.dll
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\netcoreapp3.1\Szyfr_Cezara.pdb
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.Form1.resources
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.AssemblyInfo.cs
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.dll
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.pdb
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\netcoreapp3.1\Szyfr_Cezara.genruntimeconfig.cache
