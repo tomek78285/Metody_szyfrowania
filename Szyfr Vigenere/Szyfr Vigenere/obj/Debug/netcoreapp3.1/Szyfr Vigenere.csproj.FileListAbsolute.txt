@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.exe
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.deps.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.runtimeconfig.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.runtimeconfig.dev.json
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.dll
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\bin\Debug\netcoreapp3.1\Szyfr Vigenere.pdb
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr_Vigenere.Form1.resources
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.AssemblyInfo.cs
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.dll
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.pdb
+C:\Users\user\Desktop\Metody szyfrowania\Szyfr Vigenere\Szyfr Vigenere\obj\Debug\netcoreapp3.1\Szyfr Vigenere.genruntimeconfig.cache
